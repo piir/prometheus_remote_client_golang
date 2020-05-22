@@ -1,4 +1,6 @@
-module github.com/m3db/prometheus_remote_client_golang
+module github.com/piir/prometheus_remote_client_golang
+
+go 1.14
 
 require (
 	github.com/golang/protobuf v1.3.2

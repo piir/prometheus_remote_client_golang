@@ -31,7 +31,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/m3db/prometheus_remote_client_golang/promremote"
+	"github.com/piir/prometheus_remote_client_golang/promremote"
 )
 
 type labelList []promremote.Label
