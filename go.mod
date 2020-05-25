@@ -2,8 +2,6 @@ module github.com/piir/prometheus_remote_client_golang
 
 go 1.14
 
-go 1.14
-
 require (
 	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/golang/protobuf v1.4.2
